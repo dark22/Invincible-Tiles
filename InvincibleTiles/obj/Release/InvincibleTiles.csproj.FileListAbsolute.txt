@@ -1,0 +1,13 @@
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\InvincibleTiles.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\InvincibleTiles.pdb
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\Community.CsharpSqlite.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\Community.CsharpSqlite.SQLiteClient.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\Mono.Data.Sqlite.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\MySql.Data.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\MySql.Web.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\Newtonsoft.Json.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\TerrariaServer.exe
+C:\Tshock\Invincible-Tiles\InvincibleTiles\bin\Release\TShockAPI.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\obj\Release\InvincibleTiles.csprojResolveAssemblyReference.cache
+C:\Tshock\Invincible-Tiles\InvincibleTiles\obj\Release\InvincibleTiles.dll
+C:\Tshock\Invincible-Tiles\InvincibleTiles\obj\Release\InvincibleTiles.pdb
